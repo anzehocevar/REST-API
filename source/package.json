@@ -1,0 +1,8 @@
+{
+"scripts": {
+        "test": "./node_modules/.bin/mocha --timeout 10000",
+        "start": "node index.js",
+        "build": "nexe",
+        "type":"module"
+    }
+}
